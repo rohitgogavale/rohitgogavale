@@ -1,21 +1,21 @@
 # Hello, World! 👋
 
-I'm [Rohit Gogavale], a passionate Full Stack Python Developer from [Pune]. Welcome to my GitHub profile! 🚀
+I'm Rohit Gogavale, a passionate Full Stack Python Developer from [Pune]. Welcome to my GitHub profile! 🚀
 
 ## About Me 💼
 
 - 🔭 I’m currently working on honing my full stack development skills.
-- 🌱 I’m currently learning [insert what you're learning].
+- 🌱 I’m currently learning Django & FastApi.
 - 💬 Ask me about anything related to Python, web development, or tech in general.
-- 📫 How to reach me: [Your Email Address](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: Your Email Address- rhtgogavale | [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 😄 Pronouns: He
 
 ## Tech Stack 💻
 
 - **Languages:** Python, HTML, CSS, JavaScript
-- **Frameworks:** Django, Flask, React.js
-- **Databases:** PostgreSQL, SQLite, MongoDB
-- **Tools:** Git, VS Code, Docker, Heroku
+- **Frameworks:** Django, FastApi, React.js
+- **Databases:** Mysql
+- **Tools:** Git, VS Code
 
 ## Projects 🛠️
 
